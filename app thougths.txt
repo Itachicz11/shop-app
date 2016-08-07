@@ -1,0 +1,6 @@
+App thoughts
+
+- If the app should scale I would probalby make custom "addToBasket" component, because we would probably want to be able
+to add item to the basket from different places, so I would just re-use the component.
+
+- If the app should be bigger I would probably also created new file "BasketActions.js".
